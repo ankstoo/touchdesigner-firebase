@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-osc = {git = "https://github.com/ankstoo/python-osc"}
+pyrebase = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

@@ -1,0 +1,15 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyDVpOkoMl4JApCgbDrqJ94wwbDYTpk03tM",
+    "authDomain": "touchdesigner-integration.firebaseapp.com",
+    "databaseURL": "https://touchdesigner-integration.firebaseio.com",
+    "storageBucket": "touchdesigner-integration.appspot.com"
+  },
+  "osc": {
+    "sendToHost": "localhost",
+    "sendToPort": 8000,
+    "receiveFromHost": "localhost",
+    "receiveFromPort": 9000
+  },
+  "path": "/spheres/"
+}
